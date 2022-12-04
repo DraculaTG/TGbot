@@ -29,7 +29,8 @@ ABOUT_TXT = """
 ➥ Language: Python 𝟹
 ➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
 ➥ Bot Server: <a href='https:railway. app'>Railway</a>
-➥ Build Status: v2.0.1 [ Beta ]"""
+➥ Build Status: v2.0.1 [ Beta ]
+"""
 
 
 
