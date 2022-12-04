@@ -23,13 +23,8 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-[{name}](t.me/{username}) Was created on September 4, 2022
-We are currently developing this bot, using only the Pyrogram library.
+➥ Creator: <a href='https://t.me/Daemon_Rogue_Prince'>Daemon</a>/n➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>/n➥ Language: Python 𝟹/n➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>/n➥ Bot Server: <a href='https:railway. app'>Railway</a>/n➥ Build Status: v2.0.1 [ Beta ]"""
 
-➾ Developers : Muhammed
-➾ Language : Python3
-➾ Framework : Pyrogram
-➾ Database : Mongo db
 """
 
 DONATE_TXT = """
