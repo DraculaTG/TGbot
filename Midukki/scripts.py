@@ -23,7 +23,12 @@ I Can Guide You Through All Of <b>{bot}</b>'s Cool Features And How To Properly 
 """
 
 ABOUT_TXT = """
-➥ Creator: <a href='https://t.me/Daemon_Rogue_Prince'>Daemon</a>/n➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>/n➥ Language: Python 𝟹/n➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>/n➥ Bot Server: <a href='https:railway. app'>Railway</a>/n➥ Build Status: v2.0.1 [ Beta ]"""
+➥ Creator: <a href='https://t.me/Daemon_Rogue_Prince'>Daemon</a>
+➥ Library: <a href='https://docs.pyrogram.org/'>Pyrogram</a>
+➥ Language: Python 𝟹
+➥ Data Base: <a href='https://www.mongodb.com/'>MongoDB</a>
+➥ Bot Server: <a href='https:railway. app'>Railway</a>
+➥ Build Status: v2.0.1 [ Beta ]"""
 
 """
 
