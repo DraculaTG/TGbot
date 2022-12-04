@@ -31,7 +31,7 @@ ABOUT_TXT = """
 ➥ Bot Server: <a href='https:railway. app'>Railway</a>
 ➥ Build Status: v2.0.1 [ Beta ]"""
 
-"""
+
 
 DONATE_TXT = """
 If you like this project of mine, you can donate by clicking on the given link
